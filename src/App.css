@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  width: 1500px;
+  margin-left: 196px;
+  margin-top: 31px;
+}
+
+.TableCell:hover {
+  color: yellow;
+ }
+
+.photo-img {
+  margin: auto 150px;
+  float: left;
+  width: 150px;
+  height: 200px;
+}
+
+.provider-name {
+  padding-top:50px,
+  pointer
+}
+.provider-subspecialties {
+  padding-top:30px
+}
